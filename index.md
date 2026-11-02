@@ -1,21 +1,19 @@
 # Privacy Policy
-Last updated: 04.10.2026 \
+Last updated: 02.11.2026 \
 **Developer:** Thorben Werner \
-For further questions, please open a Github issue [here](https://github.com/wernerth94/CookMorePrivacyNotice/issues) or 
-contact me under <w.thorben94@gmail.com>
+For further questions, please open a Github issue [here](https://github.com/wernerth94/Recipe-Hero/issues)
 
 ## User Data
 This app does not need an account. \
 It collects no user data and also distributes no user or usage statistics to any external party. \
 All data created by using the app is stored locally on the device. \
 ### Google Play Store
-Billing and ownership for CookMore premium is strictly handled by the Play Store and never send to a third party.
+Billing and ownership for Recipe Hero premium is strictly handled by the Play Store and never send to a third party.
 ### Google Firebase AI
 Firebase uses the signing key from the Google Play Store to grant access to the Gemini API
 
 ## Ads
-The paid version of this app does not display any ads, while the free demo version might in the future include small non-intrusive banners
-below a displayed recipe.
+The app does not display ads.
 
 ## Intended Usage
 This app is capable of downloading text and images from the web.
